@@ -1,0 +1,53 @@
+[
+    {
+      "id": 123456,
+      "cover": "https://i.ibb.co/3cDn9Hy/business-accessories-objects-top-view.jpg",
+      "title": "Exploring the Wonders of Artificial Intelligence",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/89Kq0np/istockphoto-938364454-612x612.jpg",
+      "posted_date": "2023-09-10",
+      "reading_time": 8,
+      "hashtags": ["AI", "MachineLearning", "Technology"]
+    },
+    {
+      "id": 789012,
+      "cover": "https://i.ibb.co/3cDn9Hy/business-accessories-objects-top-view.jpg",
+      "title": "Traveling the World: A Journey of a Lifetime",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/bHJshdX/istockphoto-938364454-612x612.jpg",
+      "posted_date": "2023-09-05",
+      "reading_time": 12,
+      "hashtags": ["Travel", "Adventure", "Explore"]
+    },
+    {
+      "id": 345678,
+      "cover": "https://example.com/author1.jpg",
+      "title": "Healthy Eating: Tips for a Balanced Diet",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/89Kq0np/istockphoto-938364454-612x612.jpg",
+      "posted_date": "2023-08-28",
+      "reading_time": 6,
+      "hashtags": ["Health", "Nutrition", "Diet"]
+    },
+    {
+      "id": 901234,
+      "cover": "https://i.ibb.co/3cDn9Hy/business-accessories-objects-top-view.jpg",
+      "title": "The Art of Photography: Capturing Moments in Time",
+      "author": "David Wilson",
+      "author_img": "https://i.ibb.co/bHJshdX/istockphoto-938364454-612x612.jpg",
+      "posted_date": "2023-08-20",
+      "reading_time": 10,
+      "hashtags": ["Photography", "Art", "Creativity"]
+    },
+    {
+      "id": 567890,
+      "cover": "https://example.com/author1.jpg",
+      "title": "Financial Planning: Building Wealth for the Future",
+      "author": "Michael Brown",
+      "author_img": "https://i.ibb.co/89Kq0np/istockphoto-938364454-612x612.jpg",
+      "posted_date": "2023-08-15",
+      "reading_time": 7,
+      "hashtags": ["Finance", "Investing", "Wealth"]
+    }
+  ]
+  
