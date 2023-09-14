@@ -1,6 +1,6 @@
 [
     {
-      "id": 123456,
+      "id": 1,
       "cover": "https://i.ibb.co/3cDn9Hy/business-accessories-objects-top-view.jpg",
       "title": "Exploring the Wonders of Artificial Intelligence",
       "author": "John Doe",
@@ -10,7 +10,7 @@
       "hashtags": ["AI", "MachineLearning", "Technology"]
     },
     {
-      "id": 789012,
+      "id": 2,
       "cover": "https://i.ibb.co/PFqc8HK/NA-October-10.jpg",
       "title": "Traveling the World: A Journey of a Lifetime",
       "author": "Jane Smith",
@@ -20,7 +20,7 @@
       "hashtags": ["Travel", "Adventure", "Explore"]
     },
     {
-      "id": 345678,
+      "id": 3,
       "cover": "https://i.ibb.co/YjpQ8S4/bible-wood.jpg",
       "title": "Healthy Eating: Tips for a Balanced Diet",
       "author": "Emily Johnson",
@@ -30,7 +30,7 @@
       "hashtags": ["Health", "Nutrition", "Diet"]
     },
     {
-      "id": 901234,
+      "id": 4,
       "cover": "https://i.ibb.co/Pt6dqJy/Blog-Best-Practices-Main-Image-1400.jpg",
       "title": "The Art of Photography: Capturing Moments in Time",
       "author": "David Wilson",
@@ -40,7 +40,7 @@
       "hashtags": ["Photography", "Art", "Creativity"]
     },
     {
-      "id": 567890,
+      "id": 5,
       "cover": "https://i.ibb.co/SV4H17L/how-to-improve-CTR-blog-cover-image.webp",
       "title": "Financial Planning: Building Wealth for the Future",
       "author": "Michael Brown",
